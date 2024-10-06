@@ -6,6 +6,3 @@ VALUES (
     900 
 )
 ;
-
-
-SELECT * FROM person_order
